@@ -1,0 +1,29 @@
+/* Footer alignment */
+#park-footer {
+  background: var(--bs-pampas);
+  padding: 2em;
+  font-size: 0.9rem;
+}
+
+.contact h3,
+.contact h4,
+.contact p {
+  margin-top: 0.75rem;   /* very small gap above */
+  margin-bottom: 0.25rem; /* very small gap below */
+  line-height: 1.4;       /* keep readable but tighter */
+  margin-left: 10px;
+}
+
+.contact h3 {
+  font-size: 2em;
+  font-family: --bs-font-serif;
+}
+
+.contact h4{
+  font-size: 1.65em;
+  font-weight: 700;
+}
+
+.contact p {
+  font-size: 1.5em;
+}
