@@ -29,3 +29,12 @@
 .alert-caution {
   color: var(--alert-caution);
 }
+
+
+.hide {
+  display: none;
+}
+
+.rotate {
+  transform: rotate(180deg);
+}
